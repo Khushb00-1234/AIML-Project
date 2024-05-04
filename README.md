@@ -31,5 +31,7 @@ The solver also includes a puzzle generator feature. It starts with a fully solv
 
 # Features of the Application:
 Solver: Allows users to input a Sudoku puzzle and solves it using a backtracking algorithm. 
+
 Generator: Generates a new Sudoku puzzle for users to solve. 
+
 GUI Interface: Provides a user-friendly graphical interface using Tkinter, making it easy to interact with the Sudoku puzzles.
